@@ -3,7 +3,7 @@ const vibes = [
   "...and you are awesome!",
   "...have a wonderful day!",
   "...and you've got this!",
-  "...FUCK YOU!"
+  "...AHHHHHHHH!"
 ];
 
 // choose a random good vibe

@@ -8,3 +8,7 @@ layout: base.njk
   <h1>This is a Page for You</h1>
   <p>It was made for you with blood, sweat, and tears.</p>
 </div>
+
+{% for item in news %}
+  <a href="/{{ item.country }}">{{ item.country }}</a>
+{% endfor %}
